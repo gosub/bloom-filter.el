@@ -65,11 +65,11 @@ Copy bloom-filter.el in a directory in *load-path*
 
 ## Author
 
-* Giampaolo Guiducci <stirner@gmail.com>
+* Giampaolo Guiducci <giampaolo.guiducci@gmail.com>
 
 ## License
 
-Copyright (C) 2013 Giampaolo Guiducci
+Copyright (C) 2013-2020 Giampaolo Guiducci
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
